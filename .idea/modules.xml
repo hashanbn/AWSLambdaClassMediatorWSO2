@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AWSMediator.iml" filepath="$PROJECT_DIR$/AWSMediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaMediators.iml" filepath="$PROJECT_DIR$/LambdaMediators.iml" />
     </modules>
   </component>
 </project>

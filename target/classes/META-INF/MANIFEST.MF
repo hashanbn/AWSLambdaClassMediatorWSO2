@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1515163067087
+Bnd-LastModified: 1515578026867
 Build-Jdk: 1.8.0_144
 Built-By: hashan
 Bundle-ClassPath: .,synapse-commons-2.1.2-wso2v8.jar,staxon-1.2.0-wso2v2

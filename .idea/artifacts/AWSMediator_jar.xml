@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/AWSMediator_jar</output-path>
     <root id="root">
       <element id="archive" name="AWSMediator.jar">
-        <element id="module-output" name="AWSMediator" />
+        <element id="module-output" name="LambdaMediators" />
       </element>
       <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.2.3" />
       <element id="library" level="project" name="Maven: net.minidev:json-smart:1.1" />
